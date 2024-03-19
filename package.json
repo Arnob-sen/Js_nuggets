@@ -1,0 +1,11 @@
+{
+  "name": "js_nuggets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "map.js",
+  "scripts": {
+    "test": "node map.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
